@@ -8,7 +8,7 @@ OpenCV allows us to enhance them using native inpainting algorithms. I'll go ste
 You can do it with any graphics editor, even MS Paint. Choose a color that will clearly distinguishable from the rest of
 the image. Since we'll be generally handling black and white photos, I considered pure red color a solid choice for this purpose.
 
-This has been my choice:
+This has been my choice, an old family photo:
 
 Original image
 
