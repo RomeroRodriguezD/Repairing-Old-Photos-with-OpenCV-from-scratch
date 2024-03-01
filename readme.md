@@ -133,7 +133,7 @@ Since pure red is a color that "screams" a lot, I just needed to set the maximum
 
 ![img_1.png](img_1.png)
 
--**The exported mask** once I pressed "s" (sometimes you need to press it twice, since it checks for a key each 10 ms):
+-**The exported mask** once I pressed "s" (sometimes you need to press it twice, since it checks for a key each 10 ms). It keeps original image size:
 
 ![img_2.png](img_2.png)
 
@@ -155,7 +155,6 @@ iteratively to the insides of our region of interest, giving priority to the alr
 
 ```
 import cv2
-import numpy as np
 
 # Load original and mask images
 
