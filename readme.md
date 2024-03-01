@@ -138,7 +138,7 @@ Since pure red is a color that "screams" a lot, I just needed to set the maximum
 ![img_2.png](img_2.png)
 
 
-### Step 3: Apply the in-paint algorithm to remove the imperfections ###
+### Step 3: Apply the inpainting algorithm to remove the imperfections ###
 
 Before going to the source code (which will be short and straight-forward), how in painting works? We'll use an inner
 OpenCV algorithm called INPAINT_TELEA, <a href="https://www.olivier-augereau.com/docs/2004JGraphToolsTelea.pdf">based on this paper</a>. 
