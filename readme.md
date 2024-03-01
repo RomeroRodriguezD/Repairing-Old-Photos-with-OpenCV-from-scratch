@@ -191,6 +191,6 @@ There goes our output, compared with original image:
 
 ### Final thoughts ###
 
-As you can see, many cracks on the road, top-right corner, little girls on the center of the photo and top-right corner are gone.
+As you can see, many cracks on the road, little girls on the center of the photo and top-right corner are gone.
 This technique could also be applied, not only to enhance broken old photos, but also, for example, to remove undesired
 items in an image.
