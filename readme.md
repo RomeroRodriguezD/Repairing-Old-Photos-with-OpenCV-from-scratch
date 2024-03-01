@@ -10,11 +10,11 @@ the image. Since we'll be generally handling black and white photos, I considere
 
 This has been my choice:
 
-Original image:
+Original image
 
 ![base.jpg](base.jpg)
 
-Marked image:
+Marked image
 
 ![img_3.png](img_3.png)
 
