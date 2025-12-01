@@ -5,7 +5,7 @@ OpenCV allows us to enhance them using native inpainting algorithms. I'll go ste
 
 ### Step 1: Pick your broken image and manually mark the broken parts to repair  ###
 
-You can do it with any graphics editor, even MS Paint. Choose a color that will clearly distinguishable from the rest of
+You can do it with any graphics editor, even MS Paint. Choose a color that will be clearly distinguishable from the rest of
 the image. Since we'll be generally handling black and white photos, I considered pure red color a solid choice for this purpose.
 
 This has been my choice, an old family photo:
@@ -193,3 +193,4 @@ There goes our output, compared with original image:
 As you can see, many cracks on the road, little girls on the center of the photo and top-right corner are gone.
 This technique could also be applied, not only to enhance broken old photos, but also, for example, to remove undesired
 items in an image.
+
